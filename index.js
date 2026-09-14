@@ -16,3 +16,7 @@ const codeB = `"${code1}-${code2}-${code3}"`;
 console.debug(message);
 console.debug(codeA);
 console.debug(codeB);
+
+console.log(message);
+console.log(codeA);
+console.log(codeB);
